@@ -1,12 +1,12 @@
-### CFP: Workshop on Recommender Systems in Fashion & Retail,
-#### In conjunction with ACM RecSys 2019, Copenhagen, Denmark, 19th-20th September 2019
+# CFP: Workshop on Recommender Systems in Fashion & Retail,
+###In conjunction with ACM RecSys 2019, Copenhagen, Denmark, 19th-20th September 2019
 
 
 Online Fashion retailers have significantly increased in popularity over the last decade, making it possible for customers to explore hundreds of thousands of products without the need to visit multiple stores or stand in long queues for checkout. However, the customers still face several hurdles with current online shopping solutions. For example, customers often feel overwhelmed with the large selection of the assortment and brands. In addition, there is still a lack of effective suggestions capable of satisfying customers’ style preferences, or size and fit needs, necessary to enable them in their decision-making process.  In this context, recommender systems are very well positioned to play a crucial role in creating a great customer experience in fashion. Moreover, in recent years social shopping in fashion has surfaced, thanks to platforms such as Instagram, providing a very interesting opportunity that allows to explore fashion in radically new ways. Such recent developments provides exciting challenges for the Recommender Systems and Machine Learning research communities.
 
 This workshop aims to bring together researchers and practitioners in the fashion, recommendations and machine learning domains to discuss open problems in the aforementioned areas. This involves addressing interdisciplinary problems with all of the challenges it entails. Within this workshop we aim to start the conversation among professionals in the fashion and e-commerce industries and recommender systems scientists, and create a new space for collaboration between these communities necessary for tackling these deep problems. To provide rich opportunities to share opinions and experience in such an emerging field, we will accept paper submissions on established and novel ideas, as well as new interactive participation formats.
 
-### Suggested topics for submissions are (but not limited to):
+### Suggested topics for submissions are (but not limited to):
 
 - Computer vision in Fashion (image classification, semantic segmentation, object detection)
 - Deep learning in recommendation systems for Fashion
@@ -21,7 +21,7 @@ This workshop aims to bring together researchers and practitioners in the fashio
 - Privacy preserving techniques for customer’s preferences tracing
 - Understanding social and psychological factors and impacts of influence on users’ fashion choices (such as Instagram, influencers, etc.)
 
-### Important Dates
+### Important Dates
 Paper submission deadline: July 1st, 2019
 Reviewer deadline: July 19th, 2019
 Author notification: July 29th, 2019
