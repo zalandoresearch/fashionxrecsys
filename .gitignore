@@ -1,0 +1,13 @@
+# auto-import.
+.idea/*.*
+.idea/*
+.idea/modules.xml
+.idea/*.iml
+.idea/modules
+
+# File-based project format
+*.iws
+*.iml
+
+# IntelliJ
+out/
